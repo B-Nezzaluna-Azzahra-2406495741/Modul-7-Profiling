@@ -65,3 +65,35 @@
 ### View Results Tree
 
 ![Test Plan 3 View Results Tree](public/image/test_plan_3_view_results_tree.png)
+
+## Hasil Profiling
+
+### All Student
+
+Before refactor:
+
+![All Student Before Refactor](public/image/all-student_before_refactor.png)
+
+After refactor:
+
+![All Student After Refactor](public/image/all-student_after_refactor.png)
+
+### Highest GPA
+
+Before refactor:
+
+![Highest GPA Before Refactor](public/image/highest-gpa_before_refactor.png)
+
+After refactor:
+
+![Highest GPA After Refactor](public/image/highest-gpa_after_refactor.png)
+
+### All Student Name
+
+Before refactor:
+
+![All Student Name Before Refactor](public/image/all-student-name_before_refactor.png)
+
+After refactor:
+
+![All Student Name After Refactor](public/image/all-student-name_after_refactor.png)
