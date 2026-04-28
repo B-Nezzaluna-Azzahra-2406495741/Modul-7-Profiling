@@ -160,8 +160,6 @@ After refactor:
 
 ## Conclusion
 
-Saya membandingkan hasil JMeter sebelum dan sesudah refactor dengan fokus pada average response time, karena metrik ini paling mudah dibandingkan antar pengukuran.
-
 ### All Student
 
 Sebelum refactor, endpoint all-student memiliki average response time 52855 ms. Setelah refactor, average response time turun menjadi 2282 ms. Persentase peningkatan dari sisi response time adalah sekitar 95.7% lebih cepat. Ini berarti endpoint all-student mengalami improvement yang jelas setelah optimasi.
